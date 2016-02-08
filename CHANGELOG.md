@@ -1,5 +1,17 @@
 # heroku-buildpack-php CHANGELOG
 
+## v91 (2016-01-08)
+
+### ADD
+
+- ext/phalcon 2.0.9 [David Zuelke]
+- PHP/7.0.2 [David Zuelke]
+- PHP/5.6.17 [David Zuelke]
+- PHP/5.5.31 [David Zuelke]
+- ext-apcu/5.1.2 [David Zuelke]
+- ext-mongodb/1.1.2 [David Zuelke]
+- ext-oauth/2.0.0 [David Zuelke]
+
 ## v90 (2015-12-18)
 
 ### ADD
